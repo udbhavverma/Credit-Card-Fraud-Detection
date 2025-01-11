@@ -13,4 +13,4 @@ KNN- 99.61%
 
 Naive bayes- 99.3%
 
-Decision tree- 099.64%
+Decision tree- 99.64%
